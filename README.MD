@@ -1,7 +1,7 @@
 # Unites States Of America - State Polygons
 
 ## Demo
-A live demo using GitHub Pages: [Demo](https://edwinaquino.github.io/My-Favorite-US-Cities-Using-Google-Maps-Javascript-API/)
+A live demo using GitHub Pages: [Demo](https://edwinaquino.github.io/USA-States---Google-Maps-Javascript-API-Polygons/)
 
 
 ## Installation
